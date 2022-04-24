@@ -1,6 +1,7 @@
 
 **Hourly population distribution at 100m spatial resolution** from 12 July to 18 July, 2015 modeled by the Bayesian space-time model. The model was constructed using data for each day (6 am - 11 pm) separately. The covariates contain:
-- Mobile phone positioning
+- Human digital footprint
+    * mobile phone positioning
 - Terrain
     * altitude
     * slope
